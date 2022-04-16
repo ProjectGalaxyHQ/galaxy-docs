@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgalaxy_docs=self.webpackChunkgalaxy_docs||[]).push([[4573],{2776:function(s){s.exports=JSON.parse('{"plugin":{"name":"@easyops-cn/docusaurus-search-local","id":"default"}}')}}]);

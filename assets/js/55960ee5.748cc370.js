@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgalaxy_docs=self.webpackChunkgalaxy_docs||[]).push([[4121],{8070:function(a){a.exports=JSON.parse('[{"name":"EVM","permalink":"/galaxy-docs/developer/tags/evm","count":2},{"name":"Smart Contract","permalink":"/galaxy-docs/developer/tags/smart-contract","count":2}]')}}]);
